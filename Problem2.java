@@ -1,3 +1,5 @@
+//First Missing Positive
+
 class Problem2{
 	public static int firstMissingPositive(int[] arr){
 		int n = arr.length;
@@ -39,3 +41,4 @@ class Problem2{
 		System.out.println("First Missing Positive is: "+result);
 	}
 }
+
