@@ -1,3 +1,5 @@
+// Group Anagrams
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -30,3 +32,4 @@ class Problem5 {
         System.out.println("Group Anagrams: " + sol.groupAnagrams(strs));
     }
 }
+
